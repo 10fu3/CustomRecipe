@@ -1,0 +1,6 @@
+name: CustomRecipe
+version: 1.0-SNAPSHOT
+main: jp.msfblue1.customrecipe.CustomRecipe
+commands:
+  cr:
+    description: 'none'

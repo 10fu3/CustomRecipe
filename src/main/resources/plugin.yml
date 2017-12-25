@@ -1,0 +1,6 @@
+name: CustomRecipe
+version: ${project.version}
+main: jp.msfblue1.customrecipe.CustomRecipe
+commands:
+  cr:
+    description: 'none'
